@@ -3,12 +3,16 @@ Refer to rigidBody documentation that includes the velocity and angularVelocity.
 https://docs.unity3d.com/ScriptReference/Rigidbody.html
 
 Challenge1: Scene creation:
+
 1. Create a road using a plane.
 2. Create a car using a green cube (you can import a car prefab from unity asset store)
 3. Create boxes that can be instantiated in the roadsides.
 4. Create the coin prefabs.
 5. Create a red car that acts as a competitor.
+---------------------------------------------------------------------
+
 Challenge 2: Behavior simulation:
+
 1. The red cars should be instantiated in random position (only a fixed number of red cars
 should be in the scene).
 2. Simulate the coin behavior.
